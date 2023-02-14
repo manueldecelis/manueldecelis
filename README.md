@@ -4,16 +4,12 @@
 ## Analista de Sistemas
 
 ### 🚀 Acerca de mí
-- Actualmente trabajo para 
-- Retome el camino de la programacion porque me gusta mucho.
-- acabo de terminar con un curso de coderhouse de python.
-- Estoy buscando trabajar remoto y programando.
 
 👩‍💻 Actualmente estoy trabajando para una agencia de viajes en el sector informatico.
 
 🧠 Actualmente estoy aprendiendo Python y Django.
 
-👯‍♀️ Busco colaborar en proyectos relacionados con backend.
+👯‍♀️ Busco trabajar remoto y programando.
 
 💬 Pregúntame sobre lo que necesites.
 
@@ -35,19 +31,14 @@
 # Hi, I'm Manuel De Celis! 👋
 ## Systems Analyst
 ### 🚀 About Me
-- I currently work for a travel agency in the IT sector.
-- I returned to the path of programming because I like it a lot.
-- I just finished a python coderhouse course.
-- I am looking for remote work and programming.
 
 👩‍💻 I am currently working for a travel agency in the IT sector.
 
 🧠 I'm currently learning Python and Django.
 
-👯‍♀️ Looking to collaborate on projects related to backend.
+👯‍♀️ Looking for remote work and programming.
 
 💬 Ask me about whatever you need.
-
 
 ## 🛠 Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 10%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  style="width: 10%;" />
@@ -69,4 +60,3 @@
 ## Proyectos Particulares
 - [Trabajo final de coderhouse](http://manudc.pythonanywhere.com/)
  
-
