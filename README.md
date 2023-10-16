@@ -5,7 +5,7 @@
 
 ### 🚀 Acerca de mí
 
-👩‍💻 Actualmente estoy trabajando para una agencia de viajes en el sector informatico.
+👩‍💻 Actualmente estoy trabajando para una empresa internacional de desarrollo de software como soporte técnico de atención al cliente.
 
 🧠 Actualmente estoy aprendiendo Python y Django.
 
@@ -32,7 +32,7 @@
 ## Systems Analyst
 ### 🚀 About Me
 
-👩‍💻 I am currently working for a travel agency in the IT sector.
+👩‍💻 I am currently working for an international software development company as customer service technical support.
 
 🧠 I'm currently learning Python and Django.
 
